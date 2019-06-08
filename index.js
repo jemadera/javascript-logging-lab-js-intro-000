@@ -1,3 +1,1 @@
-```js
 console.error("HALP!")
-```
